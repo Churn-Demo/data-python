@@ -1,0 +1,5 @@
+customer_id,tenure,monthly_charges,contract
+N001,1,99.0,month-to-month
+N002,36,40.0,two-year
+N003,24,55.0,one-year
+
